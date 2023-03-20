@@ -52,6 +52,10 @@ the response from the application.
 
 thats it! Congratulations :-)
 
+## VS Code
+In VS Code the process is the same
+![](./images/dotnet_new.JPG)
+
 
 
 
