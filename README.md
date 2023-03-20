@@ -4,7 +4,6 @@ To be able to write and run code, we must install the right software on our mach
 
 ## Objectives
 
-
 - Install Visual Studio 
 - Create / Open / Build / Execute / Debug New/Existing Projects
 - Understand single, multi & xml comments
@@ -14,14 +13,16 @@ To be able to write and run code, we must install the right software on our mach
 - Experience C# development in Visual Studio AND Visual Studio Code
 
 
-## Setup Guide
+
+
+## Install Visual Studio
 
 [Windows Setup Instructions](windows-setup-instructions.md)
 
 [macOS Setup Instructions](macOS-setup-instructions.md)
 
 
-## Install Visual Studio
+
 
 ## Create / Open / Build / Execute / Debug New/Existing Projects
 Lets start by creating a C# application:
@@ -42,14 +43,14 @@ string name = Console.ReadLine();
 Console.WriteLine($"Hello {name}, World!");
 
 
-Now see if the code builds.  You should get a  + Build succeeded. 
-if it doesn't build you can 
-go back into notepad to check 
-the code 
+Now see if the code builds (dotnet build), then run it (dotnet run).
 
-run it                            dotnet run
+![](./images/dotnet_run.JPG)
 
-thats it. 
+Note the Build Succeeded.  If it doesn't build you can go back into notepad to check the code before running.  Should be able to enter your name and see
+the response from the application.
+
+thats it! Congratulations :-)
 
 
 
