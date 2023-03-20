@@ -1,5 +1,5 @@
 
-# Developer Environment Setup
+# Developer Environment Setup - Mac
 
 Visual Studio can be installed on a mac using the community license.
 
