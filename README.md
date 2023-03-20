@@ -26,15 +26,12 @@ To be able to write and run code, we must install the right software on our mach
 ## Create / Open / Build / Execute / Debug New/Existing Projects
 Lets start by creating a C# application:
 
-If you are on Windows Open the Command Prompt
-go to the root of the c drive:    cd c:\
-create a directory:               mkdir hellome
-goto directory:                   cd hellome
-create a console app:             dotnet new console
-see whats been created            dir
-edit Program.cs                   notepad Program.cs
+If you are on Windows Open the Command Prompt and follow the steps in the image below:
+![](./images/dotnet_new.JPG)
 
-In NOTEPAD change the code so it reads (then save it!):
+
+In NOTEPAD change the code so it reads:
+
 
 // See https://aka.ms/new-console-template for more information
 
@@ -45,7 +42,7 @@ string name = Console.ReadLine();
 Console.WriteLine($"Hello {name}, World!");
 
 
-see if it builds                  dotnet build
+Now see if the code builds.  You should get a  ![#008000](Build succeeded. `#08000` message
 if it doesn't build you can 
 go back into notepad to check 
 the code 
