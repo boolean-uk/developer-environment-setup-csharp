@@ -52,9 +52,15 @@ the response from the application.
 
 thats it! Congratulations :-)
 
+
 ## VS Code
 In VS Code the process is the same
-![](./images/dotnet_new.JPG)
+![](./images/vscode_dotnet_new.JPG)
+
+### Other Project Types
+![](./images/dotnet_new_list.JPG)
+
+
 
 
 
