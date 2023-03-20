@@ -9,6 +9,7 @@ To be able to write and run code, we must install the right software on our mach
 - Understand solution, project layout
 - Create / Open / Build & Execute / Debug existing Projects
 - Understand single, multi & xml comments
+- Nuget package manager
 - Github Integration
 - Experience C# development in Visual Studio AND Visual Studio Code
 
