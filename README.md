@@ -10,6 +10,7 @@ To be able to write and run code, we must install the right software on our mach
 - Create / Open / Build & Execute / Debug existing Projects
 - Understand single, multi & xml comments
 - Github Integration
+- Experience C# development in Visual Studio AND Visual Studio Code
 
 
 ## Setup Guide
