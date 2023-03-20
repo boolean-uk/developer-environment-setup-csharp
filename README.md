@@ -42,7 +42,7 @@ string name = Console.ReadLine();
 Console.WriteLine($"Hello {name}, World!");
 
 
-Now see if the code builds.  You should get a  ![#008000](Build succeeded. `#08000` message
+Now see if the code builds.  You should get a  + Build succeeded. 
 if it doesn't build you can 
 go back into notepad to check 
 the code 
