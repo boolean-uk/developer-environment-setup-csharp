@@ -57,8 +57,11 @@ thats it! Congratulations :-)
 In VS Code the process is the same
 ![](./images/vscode_dotnet_new.JPG)
 
+
+
 ### Other Project Types
 ![](./images/dotnet_new_list.JPG)
+The command **dotnet new list** will show all templates that you can scaffold with the dotnet command.  Try **dotnet new wpf** for a windows application!
 
 
 
