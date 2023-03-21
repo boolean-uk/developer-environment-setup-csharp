@@ -68,7 +68,8 @@ https://learn.microsoft.com/en-us/dotnet/core/install/templates?pivots=os-window
 
 
 
-
+## Visual Studio
+The ultimate IDE for C# develoopment has to be Visual Studio.  
 
 
 
