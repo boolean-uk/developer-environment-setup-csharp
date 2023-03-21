@@ -61,7 +61,11 @@ In VS Code the process is the same
 
 ### Other Project Types
 ![](./images/dotnet_new_list.JPG)
-The command **dotnet new list** will show all templates that you can scaffold with the dotnet command.  Try **dotnet new wpf** for a windows application!
+The command **dotnet new list** will show all templates that you can scaffold with the dotnet command.  If you have wpf in your list, try **dotnet new wpf** for a windows application!  
+Install more templates from the link:
+https://learn.microsoft.com/en-us/dotnet/core/install/templates?pivots=os-windows
+
+
 
 
 
