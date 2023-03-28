@@ -9,7 +9,6 @@ To be able to write and run code, we must install the right software on our mach
 - Understand single, multi & xml comments
 - Understand solution, project layout
 - Nuget package manager
-- Github Integration
 - Install Visual Studio 
 
 
