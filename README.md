@@ -4,35 +4,26 @@ To be able to write and run code, we must install the right software on our mach
 
 ## Objectives
 
-- Install Visual Studio 
+- Experience C# development in Visual Studio AND Visual Studio Code
 - Create / Open / Build / Execute / Debug New/Existing Projects
 - Understand single, multi & xml comments
 - Understand solution, project layout
 - Nuget package manager
 - Github Integration
-- Experience C# development in Visual Studio AND Visual Studio Code
-
-
-
-
-## Install Visual Studio
-
-[Windows Setup Instructions](windows-setup-instructions.md)
-
-[macOS Setup Instructions](macOS-setup-instructions.md)
-
+- Install Visual Studio 
 
 
 
 ## Create / Open / Build / Execute / Debug New/Existing Projects
+
+***If you already have VSCode installed on your machine***
+
 Lets start by creating a C# application:
 
 If you are on Windows Open the Command Prompt and follow the steps in the image below:
 ![](./images/dotnet_new.JPG)
 
-
 In NOTEPAD change the code so it reads:
-
 
 // See https://aka.ms/new-console-template for more information
 
@@ -71,5 +62,13 @@ https://learn.microsoft.com/en-us/dotnet/core/install/templates?pivots=os-window
 ## Visual Studio
 The ultimate IDE for C# develoopment has to be Visual Studio.  
 
+
+## Install Visual Studio
+
+This can currently be installed on MAC/PC
+
+[Windows Setup Instructions](windows-setup-instructions.md)
+
+[macOS Setup Instructions](macOS-setup-instructions.md)
 
 
