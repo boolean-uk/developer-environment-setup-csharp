@@ -15,7 +15,7 @@ To be able to write and run code, we must install the right software on our mach
 
 ## Create / Open / Build / Execute / Debug New/Existing Projects
 
-***If you already have VSCode installed on your machine***
+***If you already have VSCode installed on your machine AND the .Net framework (dotnet --version)***
 
 Lets start by creating a C# application:
 
