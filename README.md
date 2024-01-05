@@ -68,6 +68,6 @@ This can currently be installed on MAC/PC
 
 [Windows Setup Instructions](windows-setup-instructions.md)
 
-[macOS Setup Instructions](macOS-setup-instructions.md)
+[macOS Setup Instructions](mac-setup-instructions.md)
 
 
